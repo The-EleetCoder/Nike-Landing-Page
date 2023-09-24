@@ -1,8 +1,9 @@
-# React + Vite
+<h1 align="center" id="title">Nike-LandingPage</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center"><img src="https://socialify.git.ci/The-EleetCoder/Nike-Landing-Page/image?language=1&amp;owner=1&amp;name=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
-Currently, two official plugins are available:
+<p id="description">This is a Nike landing page made using Tailwind CSS and React.</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>🚀 Demo</h2>
+
+[https://nike-landing-page-indol.vercel.app/](https://nike-landing-page-indol.vercel.app/)
